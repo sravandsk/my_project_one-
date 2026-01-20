@@ -1,4 +1,4 @@
-# Update system
+sudo su  # this is switch to narmal user to Root user 
 sudo apt update -y
 
 # Install Java (Jenkins requires Java)
